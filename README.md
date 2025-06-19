@@ -5,6 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Утилита для автоматической классификации YouTube-видео по двум произвольным текстовым критериям. Скрипт использует мультимодальные возможности **GPT-4o** для анализа видеокадров и **Whisper** для транскрибирования аудио, чтобы вынести вердикт о соответствии видео заданным темам.
+Это логическое продолжение задачи по парсингу видео - [парсинг Ютуб](https://autoparse.tech/kejsy/parsing-youtube/) и первичной проверке спаршенных видео на релевантность - [Проверка массива после парсинга Ютуба](https://autoparse.tech/kejsy/script-proverki-relevantnosti/). 
+Репозитории:
+[Парсер](https://github.com/kentavr009/Youtube-Parser)
+[Первичный чеккер](https://github.com/kentavr009/relevance_analyzer)
 
 ## Ключевые особенности
 
