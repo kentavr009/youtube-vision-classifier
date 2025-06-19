@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env*
+
+# IDE and OS specific
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Project specific
+# Директория для скачанных видео
+videos/
+# Файлы результатов
+results.csv
+results_*.csv
+
+# Секреты
+# Не храните API ключи в репозитории
+.env
+
+# Локальные файлы конфигурации
+config.ini
